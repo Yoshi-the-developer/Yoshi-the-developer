@@ -1,6 +1,6 @@
 # 👋 Bonjour ! Bienvenue sur mon Profil GitHub [Nom d'utilisateur]
 
-Je suis [Votre Prénom] [Votre Nom], étudiant(e) en [Nom de votre filière] à [Nom de votre École/Université].
+Je suis Adam Laroussi, étudiant en Developpement web et web mobile à L'IMIE Paris.
 
 ---
 
@@ -23,15 +23,5 @@ Ce profil est un espace de travail et d'apprentissage. Il sert principalement à
 | **Dépôts** | Nommés par cours ou par exercice (ex: `TP_React_Avril`, `SGBD_Projet_Final`) | Nommés par produit ou technologie (ex: `My-SaaS-WebApp`, `Rust-CLI-Tool`) |
 | **Engagement** | Démontrer la compréhension des concepts du cours | Résoudre des problèmes réels, innover |
 
----
-
-## 🎓 Mes Domaines d'Étude
-
-Je travaille actuellement sur les technologies et concepts suivants :
-
-* **Langages :** [Ex: JavaScript, Python, C++, Java]
-* **Frameworks/Bibliothèques :** [Ex: React, Node.js, Flask, Spring Boot]
-* **Bases de Données :** [Ex: SQL, MongoDB, PostgreSQL]
-* **Concepts Clés :** [Ex: Algorithmique, Structures de Données, Programmation Orientée Objet (POO)]
 
 N'hésitez pas à parcourir les dépôts pour voir l'évolution de mes compétences au fil des semestres !

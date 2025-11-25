@@ -35,12 +35,3 @@ Je travaille actuellement sur les technologies et concepts suivants :
 * **Concepts Clés :** [Ex: Algorithmique, Structures de Données, Programmation Orientée Objet (POO)]
 
 N'hésitez pas à parcourir les dépôts pour voir l'évolution de mes compétences au fil des semestres !
-
----
-
-### 📧 Me Contacter
-
-Si vous avez des questions concernant mes travaux académiques, vous pouvez me joindre ici :
-
-* **Adresse e-mail :** [Votre Email Académique]
-* **LinkedIn :** [Lien vers votre profil LinkedIn (Optionnel)]
